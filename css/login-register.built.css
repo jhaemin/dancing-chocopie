@@ -1,0 +1,131 @@
+.login-header, .register-header {
+	height: 200px;
+	border-bottom: 1px solid #f0f0f0;
+}
+
+.login-header {
+	/*background-color: #fff1e3;*/
+	background: -webkit-linear-gradient(135deg, #f5d711, #18d2a6);
+	background: -moz-linear-gradient(135deg, #f5d711, #18d2a6);
+	background: -o-linear-gradient(135deg, #f5d711, #18d2a6);
+	background: linear-gradient(135deg, #f5d711, #18d2a6);
+	color: white;
+}
+
+.register-header {
+	background-color: #04cd95;
+	color: white;
+}
+
+.login-title, .register-title {
+	font-size: 35px;
+	font-weight: 400;
+	padding-top: 110px;
+}
+
+.login-id, .register-id, .register-nickname {
+
+}
+
+.register-id {
+	text-transform: lowercase;
+}
+
+.input-wrapper {
+	width: calc(100% - 30px);
+	max-width: 350px;
+	margin: auto;
+}
+
+.input-pw-wrapper, .input-nn-wrapper {
+	padding-top: 25px;
+}
+
+.login-input-title, .register-input-title {
+	text-align: left;
+	margin: 0;
+	font-size: 14px;
+	font-weight: 400;
+}
+
+.login-input-title.email, .register-input-title.email {
+	margin-top: 30px;
+}
+
+.login-input, .register-input {
+	width: 100%;
+	margin-bottom: 10px;
+	margin-top: 10px;
+}
+
+.login-submit, .register-submit {
+	margin-top: 30px;
+}
+
+.privacy-policy {
+	width: calc(100% - 30px);
+	box-sizing: border-box;
+	max-width: 700px;
+	margin: auto;
+	margin-top: 30px;
+	height: 300px;
+	padding: 10px;
+	overflow: auto;
+	-webkit-overflow-scrolling: touch;
+	background-color: white;
+	border: 1px solid #e8e8e8;
+	text-align: left;
+	font-size: 0.8em;
+}
+
+.pp-agree-cb {
+	font-size: 13px;
+	display: inline-block;
+	margin-top: 10px;
+}
+
+.next {
+	margin-top: 30px;
+}
+
+#register-form {
+	/*margin-top: 100px;*/
+}
+
+.lets-register {
+	font-size: 13px;
+	margin-top: 40px;
+	padding-top: 10px;
+	border-top: 1px solid #e8e8e8;
+	display: inline-block;
+	width: calc(100% - 30px);
+	max-width: 350px;
+}
+
+.lets-register a {
+	color: #17b68b;
+	font-weight: 700;
+}
+
+.lets-register a:hover {
+	text-decoration: underline;
+}
+
+.container {
+	padding: 0 15px;
+}
+
+.dcp-hero {
+	margin-top: 80px;
+	width: 170px;
+}
+
+.wl-h {
+	padding-top: 20px;
+	font-size: 30px;
+	font-weight: 400;
+}
+
+.wl-p {
+	padding-top: 30px;
+}

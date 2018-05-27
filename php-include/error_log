@@ -1,0 +1,2 @@
+[31-Jul-2017 09:26:02 Asia/Seoul] PHP Warning:  fopen(): Filename cannot be empty in /home2/dancingc/public_html/php-include/upload-image.php on line 25
+[31-Jul-2017 09:26:02 Asia/Seoul] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home2/dancingc/public_html/php-include/upload-image.php on line 26

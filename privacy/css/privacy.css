@@ -1,0 +1,13 @@
+.container {
+	padding: 90px 15px 30px;
+	box-sizing: border-box;
+	width: 100%;
+	max-width: 900px;
+	margin: auto;
+	text-align: left;
+	word-break: break-all;
+}
+
+.title {
+	margin-bottom: 1.8em;
+}

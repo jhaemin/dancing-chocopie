@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="77px" height="89px" viewBox="0 0 77 89" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-288.000000, -142.000000)">
+            <g id="Group-2" transform="translate(288.000000, 142.000000)">
+                <rect id="Rectangle-2" fill="#E22800" x="0" y="9" width="77" height="8" rx="4"></rect>
+                <rect id="Rectangle-2" fill="#E22800" transform="translate(24.500000, 50.000000) rotate(-93.000000) translate(-24.500000, -50.000000) " x="-3.27381001" y="47" width="55.54762" height="6" rx="3"></rect>
+                <rect id="Rectangle-2" fill="#E22800" transform="translate(52.500000, 50.000000) scale(-1, 1) rotate(-93.000000) translate(-52.500000, -50.000000) " x="24.72619" y="47" width="55.54762" height="6" rx="3"></rect>
+                <rect id="Rectangle-2" fill="#E22800" transform="translate(38.000000, 49.773810) scale(-1, 1) rotate(-90.000000) translate(-38.000000, -49.773810) " x="10.22619" y="46.77381" width="55.54762" height="6" rx="3"></rect>
+                <rect id="Rectangle-3" fill="#E22800" x="26" y="0" width="25" height="17" rx="8"></rect>
+                <path d="M7.64637876,19.9720047 C7.28939363,15.5691881 10.57869,12 14.9943126,12 L61.0056874,12 C65.4208243,12 68.7106075,15.5691738 68.3536212,19.9720047 L63.6463788,78.0279953 C63.2893936,82.4308119 59.424189,86 54.9943671,86 L21.0056329,86 C16.584244,86 12.7106075,82.4308262 12.3536212,78.0279953 L7.64637876,19.9720047 Z" id="Rectangle-4" stroke="#E22800" stroke-width="6"></path>
+            </g>
+        </g>
+    </g>
+</svg>
