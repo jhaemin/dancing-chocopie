@@ -1,1 +1,1 @@
-# DancingChocopie
+# DancingChocopie - A quiz service.
